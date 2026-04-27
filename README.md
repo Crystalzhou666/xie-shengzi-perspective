@@ -2,6 +2,8 @@
 
 > _"思想输出是最高生态位，远大于干货。"_
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-7C3AED)](https://claude.ai/code) [![Made with 女娲.skill](https://img.shields.io/badge/Made_with-女娲.skill-FF6B35)](https://github.com/alchaincyf/nuwa-skill)
+
 **谢胜子的语言 体系 逻辑 框架。不是语录合集，是可运行的思维操作系统。**
 
 基于《无界成长》著作 + 小宇宙播客 20+ 期一手内容，  
