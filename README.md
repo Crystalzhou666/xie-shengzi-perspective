@@ -1,16 +1,28 @@
+<div align="center">
+
 # 谢胜子.skill
 
-> _"思想输出是最高生态位，远大于干货。"_
+<em>"思想输出是最高生态位，远大于干货。"</em>
+
+<br/>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-7C3AED)](https://claude.ai/code) [![Made with 女娲.skill](https://img.shields.io/badge/Made_with-女娲.skill-FF6B35)](https://github.com/alchaincyf/nuwa-skill)
 
+<br/>
+
 **谢胜子的语言 体系 逻辑 框架。不是语录合集，是可运行的思维操作系统。**
 
-基于《无界成长》著作 + 小宇宙播客 20+ 期一手内容，  
-结合 B 站直播回放、即刻动态与 15+ 篇媒体深度报道，  
-提炼 **5 个核心心智模型、8 条决策启发式**和完整的表达 DNA。
+<br/>
+
+基于《无界成长》著作 + 小宇宙播客 20+ 期一手内容，<br/>
+结合 B 站直播回放、即刻动态与 15+ 篇媒体深度报道，<br/>
+提炼 <strong>5 个核心心智模型、8 条决策启发式</strong>和完整的表达 DNA。
+
+<br/>
 
 [看效果](#效果示例) · [安装](#install) · [蒸馏了什么](#蒸馏了什么) · [调研来源](#调研来源)
+
+</div>
 
 ---
 
